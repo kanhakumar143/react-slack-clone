@@ -1,0 +1,24 @@
+1. wireframing - Draw rough sketch of what you actualy going build.
+
+2. functionality - 
+    Sign in
+    Sign up
+    Create a channel
+    Sand massage in a channel
+    join a channel
+    Search a channel 
+
+3. Data -
+    Users
+    Channels
+    massages
+
+4.UI - 
+    SideBar 
+        LostOfChannels
+        ListofDirectedMessage
+    MainContainer
+        Header
+        Message
+        Create Message
+    Sign in
