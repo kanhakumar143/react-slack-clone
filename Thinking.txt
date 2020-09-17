@@ -14,6 +14,7 @@
     massages
 
 4.UI - 
+    Slack component
     SideBar 
         LostOfChannels
         ListofDirectedMessage
